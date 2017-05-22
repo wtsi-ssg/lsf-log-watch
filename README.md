@@ -36,7 +36,7 @@ pika
 pygtail
 ```
 
-Recommened run methodology
+Recommended run methodology
 ==========================
 
 Configure virtualenv
