@@ -1,5 +1,5 @@
-*THIS IS A WORK IN PROGESS*
-===========================
+* Template file for external functions*
+======================================
 
 ```
 IBM Platform LSF is a powerful workload management platform for demanding, 
