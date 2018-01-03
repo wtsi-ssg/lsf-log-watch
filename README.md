@@ -1,4 +1,4 @@
-* Template file for external functions*
+Template file for external functions
 ======================================
 
 ```
